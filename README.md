@@ -1,2 +1,2 @@
 # gitskills
-# error
+# right
