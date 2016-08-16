@@ -1,2 +1,3 @@
 # gitskills
-# right
+# ok 
+# nook
